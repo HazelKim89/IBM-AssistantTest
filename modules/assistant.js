@@ -3,7 +3,7 @@ var AssistantV2 = require('watson-developer-cloud/assistant/v2');
 AssistantV2.CreateSessionParams={ assistant_id: 'ce324ac0-abef-47b4-9026-fc373f833ca4' }
 var assistant = new AssistantV2({
   version: '2018-11-08',
-  iam_apikey: 'lcq6io3s8vj99VI23NLAhUIh9qumCL77ZWgXWItSPWfz',
+  iam_apikey: 'WY0p8j2AS4KogXWaHfyASeUDE5qqyvkmqWzNMhONwHtX',
 })
 
 // assistant.CreateSessionParams
